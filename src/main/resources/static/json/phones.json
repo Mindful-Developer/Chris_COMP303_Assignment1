@@ -1,0 +1,104 @@
+{"brands":
+[
+  {
+    "name": "Apple",
+    "models": [
+      {
+        "name": "iPhone 16 Pro Max",
+        "price": 1799
+      },
+      {
+        "name": "iPhone 16 Pro",
+        "price": 1490
+      },
+      {
+        "name": "iPhone 16 Plus",
+        "price": 1315
+      },
+      {
+        "name": "iPhone 16",
+        "price": 1161
+      },
+      {
+        "name": "iPhone SE (3rd generation)",
+        "price": 595
+      }
+    ]
+  },
+  {
+    "name": "Samsung",
+    "models": [
+      {
+        "name": "Galaxy Z Flip6",
+        "price": 1805
+      },
+      {
+        "name": "Galaxy Z Fold6",
+        "price": 3170
+      },
+      {
+        "name": "Galaxy S24 Ultra",
+        "price": 2223
+      },
+      {
+        "name": "Galaxy S24",
+        "price": 1358
+      },
+      {
+        "name": "Galaxy S24+",
+        "price": 1729
+      },
+      {
+        "name": "Galaxy A15 5G",
+        "price": 316
+      },
+      {
+        "name": "Galaxy XCover6 Pro",
+        "price": 900
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "models": [
+      {
+        "name": "Pixel 9 Pro XL",
+        "price": 1755
+      },
+      {
+        "name": "Pixel 9 Pro Fold",
+        "price": 2810
+      },
+      {
+        "name": "Pixel 9",
+        "price": 1285
+      },
+      {
+        "name": "Pixel 8a",
+        "price": 795
+      }
+    ]
+  },
+  {
+    "name": "Motorola",
+    "models": [
+      {
+        "name": "moto edge - 2024",
+        "price": 715
+      },
+      {
+        "name": "razr+",
+        "price": 1560
+      },
+      {
+        "name": "moto g 5G - 2024",
+        "price": 255
+      },
+      {
+        "name": "moto g play - 2024",
+        "price": 169
+      }
+    ]
+  }
+]
+}
